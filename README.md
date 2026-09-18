@@ -1,0 +1,2 @@
+CA: Case Study1: Hospital Readmission Prediction — Use logistic regression with L2 regularization on patient records (diagnosis codes, vitals, prior visits) to predict 30-day readmission risk. Evaluate with ROC-AUC and discuss clinical cost of false negatives vs. false positives.
+Case study2: Credit Card Fraud Detection — Apply XGBoost on a heavily imbalanced transactions dataset (e.g. Kaggle IEEE-CIS). Use SMOTE for oversampling, tune decision thresholds, and interpret results with feature importance scores.
